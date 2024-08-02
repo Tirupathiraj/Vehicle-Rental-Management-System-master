@@ -17,7 +17,7 @@ This is an Application which can be manage vehicle rental process of a vehicle r
 
 * mySql
 
-* Intellij Idea
+* Eclips IDE
 
 
 *These are the option available in this application.*
